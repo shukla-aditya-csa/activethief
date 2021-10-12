@@ -1,6 +1,6 @@
 Keras==2.3.1
 numpy==1.16.5
-opencv-python==4.1.2.30
+opencv-python==4.2.0.32
 pandas==0.24.2
 requests==2.22.0
 scikit-learn==0.20.4
