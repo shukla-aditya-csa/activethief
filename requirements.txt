@@ -1,5 +1,5 @@
 Keras==2.3.1
-numpy==1.16.5
+numpy==1.22.0
 opencv-python==4.1.2.30
 pandas==0.24.2
 requests==2.22.0
